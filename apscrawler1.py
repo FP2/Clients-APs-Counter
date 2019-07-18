@@ -5,7 +5,7 @@ import csv
 
 logging.basicConfig(filename='log_apsc1.log', level=logging.INFO, format='%(asctime)s:%(levelname)s:%(message)s')
 
-KEY = 'db977e503984058237f9bfbbaf91a5e67d0dbe20'
+KEY = <API KEY>
 
 org_ids = []
 org_names = []
