@@ -12,7 +12,7 @@ logging.basicConfig(
     format='%(asctime)s:%(levelname)s:%(message)s'
 )
 
-API = 'db977e503984058237f9bfbbaf91a5e67d0dbe20'
+API = <API KEY>
 
 sorted_adm = []
 sorted_captive = []
